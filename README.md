@@ -4,8 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm a Computer Science and Technology Student @ **Tec de Monterrey**, currently working as an E2E Support and Automatization Intern @ **Coca-Cola FEMSA**. 
-I'm passionate about full-stack engineering, web development and agile methods, and I'm always looking for new opportunities to expand my skills and knowledge.
+I'm a Computer Science and Technology Student @ [Tec de Monterrey](https://tec.mx/es), currently working as an E2E Support and Automatization Intern @ [Coca-Cola FEMSA](https://coca-colafemsa.com/). I'm passionate about full-stack engineering, web development and agile methods, and I'm always looking for new opportunities to expand my skills and knowledge.
 
 On this GitHub profile, you'll find my personal projects, as well as my contributions to academic and professional repositories. I believe that collaboration and sharing knowledge is essential in the tech industry, which is why I love to share my work and ideas to the world.
 
