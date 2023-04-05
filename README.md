@@ -103,6 +103,4 @@ Follow me on other social media! 🫶🏻
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablogonzalezdelaparra&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
